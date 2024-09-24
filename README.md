@@ -1,0 +1,1 @@
+In this project we make a contact list and implement ways to use it efficiently. We do a variety of actions in it, all involving editing and viewing a list of contacts. This involves regex, loops, and dictionaries
